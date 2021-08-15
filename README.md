@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @wjsrlahrlco1998
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-wjsrlahrlco1998/wjsrlahrlco1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @wjsrlahrlco1998.
+I'm studying computer engineering at Pukyong National University.
+Github is my personal code store.
+Thank y

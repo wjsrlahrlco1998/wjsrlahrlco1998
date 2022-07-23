@@ -1,4 +1,5 @@
 ### Hi, My name is ParkJiSeong.
+### 1 DAY 1 COMMIT!!
 
 ### :yum:About Me
 - Profile(미완성): [My Profile](https://wjsrlahrlco1998.github.io/profile/)

@@ -2,7 +2,6 @@
 ### 1 DAY 1 COMMIT!!
 
 ### :yum:About Me
-- Profile(미완성): [My Profile](https://wjsrlahrlco1998.github.io/profile/)
 - blog : [JSP의 코딩 스토리](https://jsp-coding.tistory.com/)
 ---
 [![Machineric's github stats](https://github-readme-stats.vercel.app/api?username=wjsrlahrlco1998)](https://github.com/anuraghazra/github-readme-stats)

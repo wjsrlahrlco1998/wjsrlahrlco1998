@@ -2,7 +2,7 @@
 ### 1 DAY 1 COMMIT!!
 
 ### :yum:About Me
-- blog : [JSP의 코딩 스토리](https://jsp-coding.tistory.com/)
+- blog : [JSP's Deep Learning](https://jsp-coding.tistory.com/)
 ---
 [![Machineric's github stats](https://github-readme-stats.vercel.app/api?username=wjsrlahrlco1998)](https://github.com/anuraghazra/github-readme-stats)
 ---

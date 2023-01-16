@@ -1,5 +1,7 @@
 ### Hi, My name is ParkJiSeong.
-### 1 DAY 1 COMMIT!!
+### I'm working as an AI researcher and developer.
+### Currently, I am focusing on running a tech blog.
+### Thank you.
 
 ### :yum:About Me
 - blog : [JSP's Deep Learning](https://jsp-coding.tistory.com/)

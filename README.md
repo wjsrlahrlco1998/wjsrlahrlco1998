@@ -3,8 +3,6 @@
 ### Currently, I am focusing on running a tech blog.
 ### Thank you.
 
-### :yum:About Me
-- blog : [JSP's Deep Learning](https://jsp-coding.tistory.com/)
 ---
 [![Machineric's github stats](https://github-readme-stats.vercel.app/api?username=wjsrlahrlco1998)](https://github.com/anuraghazra/github-readme-stats)
 ---

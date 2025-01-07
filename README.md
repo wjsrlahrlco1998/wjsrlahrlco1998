@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <samp>Hello there. I'm Park Ji Seung.<br> I'm a AI Developer from South Korea.<br><br>#python</samp>
+  <samp>Hello there. I'm Park Ji Seung.<br> I'm a AI Developer from South Korea.<br><br>#python #nextjs</samp>
   <br>
   <br>
   <br>

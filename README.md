@@ -7,4 +7,4 @@
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" />
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/wjsrlahrlco1998">@wjsrlahrlco1998</a> <a href="https://www.linkedin.com/in/parkjiseong9/">@LinkedIn</a>
+<p align="center">⭐️ From <a href="https://github.com/wjsrlahrlco1998">@GitHub</a> <a href="https://www.linkedin.com/in/parkjiseong9/">@LinkedIn</a>
